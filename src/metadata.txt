@@ -1,0 +1,29 @@
+[general]
+name=OTBN
+description=Utilidades para el proyecto OTBN.
+
+version=0.8.1
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+author=Gabriel De Luca
+email=caprieldeluca@gmail.com
+
+about=Plugin de algoritmos de procesamiento con utilidades para el proyecto OTBN.
+
+tracker=https://github.com/caprieldeluca/otbn/issues
+repository=https://github.com/caprieldeluca/otbn
+
+tags=otbn
+
+homepage=https://github.com/caprieldeluca/otbn/wiki
+
+changelog=
+    1.0.1 - Primera versión pública.
+
+icon=
+
+experimental=False
+deprecated=False
+server=False
+
+hasProcessingProvider=yes
