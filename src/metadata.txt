@@ -3,7 +3,7 @@ name=OTBN
 description=Utilidades para el proyecto OTBN.
 
 version=0.8.1
-qgisMinimumVersion=3.16
+qgisMinimumVersion=3.28
 qgisMaximumVersion=3.99
 author=Gabriel De Luca
 email=caprieldeluca@gmail.com
